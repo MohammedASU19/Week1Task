@@ -1,0 +1,29 @@
+.status-bar {
+  height: 20px;
+  background-color: #1F1F1F;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 10px;
+  font-size: 12px;
+  box-shadow: 0 -1px 0 #444 inset;
+}
+
+.status-bar-left, .status-bar-right {
+  display: flex;
+  align-items: center;
+}
+
+.status-icon {
+  margin-right: 5px;
+  color: white;
+}
+
+.status-count {
+  margin-right: 10px;
+}
+
+.status-text {
+  margin-right: 5px;
+}

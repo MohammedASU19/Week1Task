@@ -1,0 +1,30 @@
+.sidebar {
+  width: 50px;
+  background-color: #1e1e1e;
+  color: white;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-right: 1px solid #333;  
+}
+
+.sidebar ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.sidebar li {
+  margin: 20px 0;
+}
+
+.sidebar .fa-folder,
+.sidebar .fa-folder-open,
+.sidebar .fa-code-branch,
+.sidebar .fa-plug,
+.sidebar .fa-cog,
+.sidebar .fa-play,
+.sidebar .fa-user {
+  color: white;
+  font-size: 20px;
+}

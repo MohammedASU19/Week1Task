@@ -1,0 +1,47 @@
+.main-content {
+  padding: 20px;
+}
+
+.start-section,
+.recent-section {
+  margin-top: 20px;
+  margin-left: 40px;  
+  color: white;
+}
+
+.start-section h2,
+.recent-section h2 {
+  color: white;
+  margin-bottom: 10px;
+}
+
+.start-section ul,
+.recent-section ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.start-section li,
+.recent-section li {
+  margin: 5px 0;
+  display: flex;
+  align-items: center;  
+}
+
+.start-section li span,
+.recent-section li span {
+  margin-right: 10px;
+}
+
+.icon {
+  color: #0078D4;
+  margin-right: 10px; 
+}
+
+.app-name {
+  color: #0078D4;
+}
+
+.app-path {
+  color: white;
+}

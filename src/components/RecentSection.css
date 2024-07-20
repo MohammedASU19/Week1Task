@@ -1,0 +1,32 @@
+.recent-section {
+    margin-bottom: 20px;
+  }
+  
+  .recent-section h2 {
+    margin-bottom: 15px;
+    font-size: 24px;
+    color: white;
+  }
+  
+  .recent-section ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .recent-section li {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 10px;
+    cursor: pointer;
+    color: #0078D4;
+  }
+  
+  .recent-section li:hover {
+    text-decoration: underline;
+  }
+  
+  .recent-section li span {
+    margin-right: 10px;
+  }
+  

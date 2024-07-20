@@ -1,0 +1,31 @@
+.start-section {
+    margin-bottom: 20px;
+  }
+  
+  .start-section h2 {
+    margin-bottom: 15px;
+    font-size: 24px;
+    color: white;
+  }
+  
+  .start-section ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .start-section li {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+    cursor: pointer;
+    color: #0078D4;
+  }
+  
+  .start-section li:hover {
+    text-decoration: underline;
+  }
+  
+  .start-section li i {
+    margin-right: 10px;
+  }
+  
